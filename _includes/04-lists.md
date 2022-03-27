@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+* Favorite food - Biriyani
+* Favorite book - The Fault in our stars
